@@ -19,7 +19,7 @@ Exploratory data analysis of wildfire in California
 
 2. What is the distribution of stated causes of fire in California? 
 
-3. Can we predict the stated causes of fire? 
+3. One versus the rest classification for stated causes of fire
 
 
 ### File Descriptions<a name="file_descriptions"></a>
@@ -47,6 +47,12 @@ Ten least fire-prone counties in California are San Benito,
  Douglas. 
   
 The five most frequent stated causes of fire in California is Miscellaneous, Equipment Use, Lightning, Arson, and Debris Burning. 
+
+The dataset for wildfire in California initially contained thirteen features. The features 'COUNTY', and 'FIPS_NAME' had about 70% of values missing, and therefore they were dropped. 
+Random forest classifier from sklearn was used for one versus the rest classification to predict the stated causes of fire. 
+
+
+
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992–2015 [FPA_FOD_20170508]. 4th Edition. Fort Collins, CO: Forest Service Research Data Archive. 
