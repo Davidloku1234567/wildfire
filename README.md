@@ -26,6 +26,10 @@ Exploratory data analysis of wildfire in California from a dataset that contains
 
 ### File Descriptions<a name="file_descriptions"></a>
 
+wildFire_1.ipynb: Jupyter notebook for EDA of storm events
+
+LICENSE.txt: MIT License
+
 which counties are the most and least fire-prone in the state of California, the distribution of stated causes of wildfire, and to predict the cause of wildfires from ten selected features using decision tree classifier method. It is found that the most and least fire-prone counties in California are Riverside and Douglas, respectively. The most stated cause of wildfire is ‘Miscellaneous’ and the least stated cause of wildfire is ‘Structure’. 
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
