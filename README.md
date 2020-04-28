@@ -1,4 +1,4 @@
-# wildfire
+# Analysis of wildfire in California
 ### Table of Contents
 1. [Installations](#installations)
 2. [Project Motivation](#project_motivation)
@@ -10,6 +10,8 @@
 Standard libraries installed with the Anaconda distribution.
 
 python 3.7.4
+
+### Project Motivation<a name="project_motivation"></a>
 
 A dataset that contains 1.88 million geo-referenced wildfire occurred in United States from 1992 to 2015 was analyzed to learn which counties are the most and least fire-prone in the state of California, the distribution of stated causes of wildfire, and to predict the cause of wildfires from ten selected features using decision tree classifier method. It is found that the most and least fire-prone counties in California are Riverside and Douglas, respectively. The most stated cause of wildfire is ‘Miscellaneous’ and the least stated cause of wildfire is ‘Structure’. 
 
