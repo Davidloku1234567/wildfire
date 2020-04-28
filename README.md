@@ -24,7 +24,7 @@ Exploratory data analysis of wildfire in California
 
 ### File Descriptions<a name="file_descriptions"></a>
 
-wildFire_1.ipynb: Jupyter notebook for EDA of storm events
+wildFire_1.ipynb: Jupyter notebook for EDA of wildfires in California
 
 LICENSE.txt: MIT License
 
