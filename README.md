@@ -17,11 +17,9 @@ Exploratory data analysis of wildfire in California
 
 1. What are the most and least fire-prone counties in California? 
 
-2. What is the distribution of fire size classes? 
+2. What is the distribution of stated causes of fire? 
 
-3. What is the distribution of stated causes of fire? 
-
-4. Can we predict the stated causes of fire? 
+3. Can we predict the stated causes of fire? 
 
 
 ### File Descriptions<a name="file_descriptions"></a>
