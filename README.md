@@ -50,8 +50,11 @@ The five most frequent stated causes of fire in California is Miscellaneous, Equ
 
 The dataset for wildfire in California initially contained thirteen features. The features 'COUNTY', and 'FIPS_NAME' had about 70% of values missing, and therefore they were dropped. 
 Random forest classifier from sklearn was used for one versus the rest classification to predict the stated causes of fire. 
+The classes of training data was balanced by upsampling. 
 
-
+The model worked best for predicting stated cause of fire, 'Lightning', with AUC of 0.98. 
+However, AUC's for predicting 'Miscellaneous' and 'Equipment Use' were less than 0.75. 
+The AUC's for 'Arson' and 'Debris Burning' were 0.80 and 0.83 respectively. 
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
