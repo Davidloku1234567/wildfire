@@ -32,8 +32,8 @@ LICENSE.txt: MIT License
 
 ### Results<a name="resluts"></a>
 
-The dataset is downloaded from kaggle. It includes 1.88 million geo-referenced wildfire records from 1992 to 2015.
-There are 27 tables, and the table 'Fires' is used for this analysis. 
+The dataset is downloaded from kaggle. It includes 1.88 million geo-referenced U.S. wildfire records from 1992 to 2015.
+There are 27 tables, and the table 'Fires' was used for this analysis. 
 
   
   
