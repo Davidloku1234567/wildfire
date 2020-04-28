@@ -13,9 +13,9 @@ python 3.7.4
 
 ### Project Motivation<a name="project_motivation"></a>
 
-Exploratory data analysis of wildfire in California from a dataset that contains 1.88 million geo-referenced wildfire occurred in United States from 1992 to 2015.
+Exploratory data analysis of wildfire in California
 
-1. What are the most fire-prone counties in California? 
+1. What are the most and least fire-prone counties in California? 
 
 2. What is the distribution of fire size classes? 
 
@@ -32,6 +32,7 @@ LICENSE.txt: MIT License
 
 ### Results<a name="resluts"></a>
 
+The dataset is downloaded from kaggle. It includes 1.88 million geo-referenced wildfire records from 1992 to 2015.
 
   
   
