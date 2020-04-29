@@ -39,7 +39,8 @@ Ten least fire-prone counties in California are San Benito, Solano, Ventura, Kin
   
 The five most frequent stated causes of fire in California is Miscellaneous, Equipment Use, Lightning, Arson, and Debris Burning. 
 
-The dataset for wildfire in California initially contained thirteen features. The features 'COUNTY', and 'FIPS_NAME' had about 70% of values missing, and therefore they were dropped. 
+The dataset for wildfire in California initially contained thirteen features. The features 'COUNTY', and 'FIPS_NAME' had about 70% of values missing, and therefore they were dropped. Categorical variables such as 'FIRE_SIZE_CLASS' and 'STAT_CAUSE_DESCR' are converted into dummy variables. 
+
 Random forest classifier from sklearn was used for one versus the rest classification to predict the stated causes of fire. 
 The classes of training data was balanced by upsampling. 
 
