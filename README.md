@@ -30,7 +30,7 @@ LICENSE.txt: MIT License
 
 ### Results<a name="resluts"></a>
 
-The dataset is downloaded from kaggle. It includes 1.88 million geo-referenced U.S. wildfire records from 1992 to 2015.
+The dataset ncludes 1.88 million geo-referenced U.S. wildfire records from 1992 to 2015.
 There are 27 tables, and the table 'Fires' was used for this analysis. 
 
 Ten most fire-prone counties in California are Riverside, Los Angeles, El Dorado, San Bernardino, San Diego, Fresno, Siskiyou, Shasta, Butte, and Kern. 
