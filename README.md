@@ -19,7 +19,7 @@ Exploratory data analysis of wildfire in California
 
 2. What is the distribution of stated causes of fire in California? 
 
-3. One versus the rest classification for predicting stated cause of fire
+3. Predict stated cause of fire using one versus the rest classification method
 
 
 ### File Descriptions<a name="file_descriptions"></a>
