@@ -35,16 +35,7 @@ There are 27 tables, and the data from the table 'Fires' is used for this analys
 
 Ten most fire-prone counties in California are Riverside, Los Angeles, El Dorado, San Bernardino, San Diego, Fresno, Siskiyou, Shasta, Butte, and Kern. 
 
-Ten least fire-prone counties in California are San Benito,
- Solano,
- Ventura,
- Kings,
- Colusa,
- Glenn,
- Marin,
- Sutter,
- San Francisco, and 
- Douglas. 
+Ten least fire-prone counties in California are San Benito, Solano, Ventura, Kings, Colusa, Glenn, Marin, Sutter, San Francisco, and Douglas. 
   
 The five most frequent stated causes of fire in California is Miscellaneous, Equipment Use, Lightning, Arson, and Debris Burning. 
 
